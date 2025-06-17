@@ -415,6 +415,116 @@
       "balance": 0,
       "createdAt": "2025-06-17T18:34:04.417Z",
       "modifiedAt": "2025-06-17T18:34:04.417Z"
+    },
+    {
+      "id": "qJJb2KDkB",
+      "uuid": "88fe4ecb-2d35-4fc4-a27c-71dec61c123b",
+      "firstName": "Adam",
+      "lastName": "Thomson",
+      "username": "rut",
+      "password": "$2a$10$A9Zp28AhZbnvIgx5vuW71uEKyaCmSoSUaLftLgMRIaw85lxhB2nQy",
+      "balance": 0,
+      "createdAt": "2025-06-17T18:37:53.143Z",
+      "modifiedAt": "2025-06-17T18:37:53.143Z"
+    },
+    {
+      "id": "Olm9HDUTx",
+      "uuid": "8de561dd-ace0-4269-8e98-4ac9ef6001a3",
+      "firstName": "Joseph",
+      "lastName": "Vink",
+      "username": "kohegol",
+      "password": "$2a$10$w3AFLyYsvAsdjchljIG9P.8UwXq6/7uE97KHWbSN0d/vMGNFqpCDq",
+      "balance": 0,
+      "createdAt": "2025-06-17T18:38:02.915Z",
+      "modifiedAt": "2025-06-17T18:38:02.915Z"
+    },
+    {
+      "id": "sjSNJBMMM",
+      "uuid": "37adc471-d898-49f3-9467-30bf0544d977",
+      "firstName": "Corey",
+      "lastName": "Brunori",
+      "username": "kog",
+      "password": "$2a$10$76aMBrNhFFdNfLSTfhsHue1z7czNDQHdKJG10MyG5j3/WPgasifUG",
+      "balance": 0,
+      "createdAt": "2025-06-17T18:38:05.933Z",
+      "modifiedAt": "2025-06-17T18:38:05.933Z"
+    },
+    {
+      "id": "_ebpF_SuJ",
+      "uuid": "3de86f5c-0b1d-4345-9e54-45b3bc5f6ab4",
+      "firstName": "Brett",
+      "lastName": "Floyd",
+      "username": "bahjuk",
+      "password": "$2a$10$3WukVBwlQfgJ86YVVZI36upZ/DhCGrmR8KQh1LCs9F4RbLk3Ofo4m",
+      "balance": 0,
+      "createdAt": "2025-06-17T18:38:10.413Z",
+      "modifiedAt": "2025-06-17T18:38:10.413Z"
+    },
+    {
+      "id": "Vdna8eG-T",
+      "uuid": "52a2fcbb-8154-409b-a0cb-3ecf13be5ff5",
+      "firstName": "Max",
+      "lastName": "James",
+      "username": "bah",
+      "password": "$2a$10$0zyV4ywun/ptRnRI.4GIX.uebWwYEBcUAfIxR5VW8S76Hy34C96n6",
+      "balance": 0,
+      "createdAt": "2025-06-17T18:40:58.928Z",
+      "modifiedAt": "2025-06-17T18:40:58.928Z"
+    },
+    {
+      "id": "VM6B9L__o",
+      "uuid": "732618a3-0232-4e33-ab7e-57c38cc1fcbc",
+      "firstName": "Nannie",
+      "lastName": "Lucas",
+      "username": "upmigu",
+      "password": "$2a$10$vdWC/yqGfkXt9Y0PjEx6YemmIjxUTV4HfHBY8he9F1MbGWNwYAiXq",
+      "balance": 0,
+      "createdAt": "2025-06-17T18:41:21.435Z",
+      "modifiedAt": "2025-06-17T18:41:21.435Z"
+    },
+    {
+      "id": "aDN1MGu6K",
+      "uuid": "05b5e34c-79dd-454a-859b-417bc7cf8f04",
+      "firstName": "Willie",
+      "lastName": "Testa",
+      "username": "bes",
+      "password": "$2a$10$SHE.Q3pR1kVyXKQIaW.TtOYa1hRAfGKuuPtxfyH.UmlRwEZD7xCZO",
+      "balance": 0,
+      "createdAt": "2025-06-17T19:38:40.826Z",
+      "modifiedAt": "2025-06-17T19:38:40.826Z"
+    },
+    {
+      "id": "b2hbIb_Bl",
+      "uuid": "d86eaebb-d525-456a-995e-067d64633cac",
+      "firstName": "Mattie",
+      "lastName": "Burrows",
+      "username": "bonfiom",
+      "password": "$2a$10$YH5jKEhl8wJWLe6I9MZMXOp3tyhC.PzHpsSWpeSFI6tr/pYwkH5Pu",
+      "balance": 0,
+      "createdAt": "2025-06-17T19:40:00.462Z",
+      "modifiedAt": "2025-06-17T19:40:00.462Z"
+    },
+    {
+      "id": "zbR6Hojrf",
+      "uuid": "63833c62-8069-447d-87b8-dc14c5907726",
+      "firstName": "Flora",
+      "lastName": "Santi",
+      "username": "fes",
+      "password": "$2a$10$aV.0CN0ealMSfqjYMO58iO1RNan9ichxegFzgLmK7s4DoylsLZnO.",
+      "balance": 0,
+      "createdAt": "2025-06-17T19:40:05.244Z",
+      "modifiedAt": "2025-06-17T19:40:05.244Z"
+    },
+    {
+      "id": "0enHwt_MT",
+      "uuid": "80c98c96-904d-4807-9b7c-9daed8256ed5",
+      "firstName": "Roxie",
+      "lastName": "Barbier",
+      "username": "ob",
+      "password": "$2a$10$VYAEogDZcx5as17j6XypJ.Mex2.WawzR3ipwOxmFXcF9AfVpMbvru",
+      "balance": 0,
+      "createdAt": "2025-06-17T19:44:30.907Z",
+      "modifiedAt": "2025-06-17T19:44:30.907Z"
     }
   ],
   "contacts": [
