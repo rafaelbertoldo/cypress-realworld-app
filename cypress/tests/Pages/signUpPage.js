@@ -15,6 +15,12 @@ class SignUpPage {
       dialogBox: "[role='dialog']",
       closeDialogButton: "[type='button']",
       requiredFieldAlert: "#username-helper-text",
+      bankNameField: "[name='bankName']",
+      routingNumber: "[name='routingNumber']",
+      accountNumber: "[name='accountNumber']",
+      userOnboardingButton: "[data-test='user-onboarding-next']",
+      myTransactionsButton: "[href='/personal']",
+      emptyTransactionsButton: "[data-test='transaction-list-empty-create-transaction-button']",
     };
 
     return selectors;
@@ -57,6 +63,22 @@ class SignUpPage {
   registerChecker() {
     cy.get(this.selectorsList().dialogBox);
     cy.get(this.selectorsList().closeDialogButton).eq(2).click();
+  }
+
+  bankAccountCreator() {
+    const bankName = chance.word({ length: 6 });
+    const routingNumber = chance.ssn({ dashes: false });
+    const accountNumber = chance.zip({ plusfour: true });
+    cy.get(this.selectorsList().bankNameField).type(bankName);
+    cy.get(this.selectorsList().routingNumber).type(routingNumber);
+    cy.get(this.selectorsList().accountNumber).type(accountNumber);
+    cy.get(this.selectorsList().submitButton).click();
+    cy.get(this.selectorsList().userOnboardingButton).click();
+  }
+
+  newProfileTransactionsChecker() {
+    cy.get(this.selectorsList().myTransactionsButton).click();
+    cy.get(this.selectorsList().emptyTransactionsButton);
   }
 }
 

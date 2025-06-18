@@ -580,6 +580,94 @@
       "balance": 0,
       "createdAt": "2025-06-17T22:57:34.873Z",
       "modifiedAt": "2025-06-17T22:57:34.873Z"
+    },
+    {
+      "id": "Qhp_0uEpe",
+      "uuid": "3d0de0c4-fa9e-4bf1-b9df-0873a7973ae4",
+      "firstName": "Nancy",
+      "lastName": "Cognome",
+      "username": "codeb",
+      "password": "$2a$10$sTyUnmItNH6AcMu8dEAmI.MEIh.5aJ6h5JFSsBQce.R6W.7UrQaBS",
+      "balance": 0,
+      "createdAt": "2025-06-18T01:13:22.776Z",
+      "modifiedAt": "2025-06-18T01:13:22.776Z"
+    },
+    {
+      "id": "grH5q06hT",
+      "uuid": "f1cffaa2-d876-4909-a3a5-e537f454ba72",
+      "firstName": "Devin",
+      "lastName": "Gibson",
+      "username": "anehuwad",
+      "password": "$2a$10$gKyh0Y6GPKoXaQ2/GhhVRe90aPH4FYgOP2Z3TmjnnDpoEjZ8i4N6S",
+      "balance": 0,
+      "createdAt": "2025-06-18T01:13:52.751Z",
+      "modifiedAt": "2025-06-18T01:13:52.751Z"
+    },
+    {
+      "id": "JUuTLi0ga",
+      "uuid": "48da91b2-78a1-4ec4-9606-eaf3cb838cf8",
+      "firstName": "Anne",
+      "lastName": "Kraus",
+      "username": "voloriir",
+      "password": "$2a$10$SH8Kysz/Yyp1f/o7yQewtO.RuQeETbcKfhPaCFHLZGdghEX8fzMTa",
+      "balance": 0,
+      "createdAt": "2025-06-18T01:18:02.972Z",
+      "modifiedAt": "2025-06-18T01:18:02.972Z"
+    },
+    {
+      "id": "JgV9cbjKG",
+      "uuid": "cbd7c4ba-a1a5-4c82-8c03-a78f66fb7022",
+      "firstName": "Lock",
+      "lastName": "Locker",
+      "username": "locklocker",
+      "password": "$2a$10$7mKKh1VEd1aOsM.qmrd.peSO1yHKkEHTm9Zlx/111eW7HKh30.OFW",
+      "balance": 0,
+      "createdAt": "2025-06-18T01:25:22.292Z",
+      "modifiedAt": "2025-06-18T01:25:22.292Z"
+    },
+    {
+      "id": "iEzatK5aa",
+      "uuid": "ab140b8b-f1a0-47da-9195-da8524b0ffa8",
+      "firstName": "Lucinda",
+      "lastName": "Fisher",
+      "username": "ce",
+      "password": "$2a$10$5iKebF2kyg6kp2ivQr5CjOZomcmrofNaMpfhVPr0f4GJFU1F8egqy",
+      "balance": 0,
+      "createdAt": "2025-06-18T01:44:09.685Z",
+      "modifiedAt": "2025-06-18T01:44:09.685Z"
+    },
+    {
+      "id": "v85Bplt0Q",
+      "uuid": "0e93a19c-9873-46ba-997b-489db87ca8d4",
+      "firstName": "Emma",
+      "lastName": "Los",
+      "username": "hojhepas",
+      "password": "$2a$10$BupVp8yU/tsbkmOr285dr.1FTu3FR3p1B3QXRRlBbfRLQZNThgg/2",
+      "balance": 0,
+      "createdAt": "2025-06-18T01:45:26.630Z",
+      "modifiedAt": "2025-06-18T01:45:26.630Z"
+    },
+    {
+      "id": "LH6mBajDP",
+      "uuid": "97fc4f39-e609-4f86-9ba6-61114566c688",
+      "firstName": "Milton",
+      "lastName": "Hidalgo",
+      "username": "vuggigiv",
+      "password": "$2a$10$loYqGZ6QRDrC./yAxr/muObD7XZLviYvJ5uZQoZVEvEFEAQapJHDy",
+      "balance": 0,
+      "createdAt": "2025-06-18T01:46:36.854Z",
+      "modifiedAt": "2025-06-18T01:46:36.854Z"
+    },
+    {
+      "id": "YLKJw1xKv",
+      "uuid": "322bfa8d-60c7-45c9-a466-3a0f1ddf2d5f",
+      "firstName": "Tyler",
+      "lastName": "Fedi",
+      "username": "nollaw",
+      "password": "$2a$10$WRRh29L4gg/rkhAw7fNwoeQi8OwJ9oDfiafjvgTBq9SGIK/VJaWKy",
+      "balance": 0,
+      "createdAt": "2025-06-18T01:46:47.060Z",
+      "modifiedAt": "2025-06-18T01:46:47.060Z"
     }
   ],
   "contacts": [
@@ -759,6 +847,61 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "iYnrKxMac",
+      "uuid": "5b44257a-4fba-4af1-8a28-6e5d7bc38cf9",
+      "userId": "grH5q06hT",
+      "bankName": "Gordon",
+      "accountNumber": "098765456",
+      "routingNumber": "asdc24r34",
+      "isDeleted": false,
+      "createdAt": "2025-06-18T01:15:43.317Z",
+      "modifiedAt": "2025-06-18T01:15:43.317Z"
+    },
+    {
+      "id": "t0viWZm2e",
+      "uuid": "874eebd5-6db4-4e2d-ab98-eaa2d2230a61",
+      "userId": "JUuTLi0ga",
+      "bankName": "Gordon",
+      "accountNumber": "987738934",
+      "routingNumber": "asdc24r34",
+      "isDeleted": false,
+      "createdAt": "2025-06-18T01:18:19.167Z",
+      "modifiedAt": "2025-06-18T01:18:19.167Z"
+    },
+    {
+      "id": "fWCyYmpBp",
+      "uuid": "7ea8ff3c-0c9b-4be3-8456-50efb12ce64f",
+      "userId": "JgV9cbjKG",
+      "bankName": "gordons",
+      "accountNumber": "01035-1838",
+      "routingNumber": "293839295",
+      "isDeleted": false,
+      "createdAt": "2025-06-18T01:38:27.187Z",
+      "modifiedAt": "2025-06-18T01:38:27.187Z"
+    },
+    {
+      "id": "QE6MPR4IG",
+      "uuid": "d83c12df-bdd9-461b-9807-03169ecb0d57",
+      "userId": "LH6mBajDP",
+      "bankName": "mogupa",
+      "accountNumber": "86819-5042",
+      "routingNumber": "797203509",
+      "isDeleted": false,
+      "createdAt": "2025-06-18T01:46:38.491Z",
+      "modifiedAt": "2025-06-18T01:46:38.491Z"
+    },
+    {
+      "id": "zXf0wr-Q-",
+      "uuid": "c6715b04-7ccc-4f14-a651-27882214dedd",
+      "userId": "YLKJw1xKv",
+      "bankName": "jacabi",
+      "accountNumber": "40154-6279",
+      "routingNumber": "294271315",
+      "isDeleted": false,
+      "createdAt": "2025-06-18T01:46:48.607Z",
+      "modifiedAt": "2025-06-18T01:46:48.607Z"
     }
   ],
   "transactions": [
